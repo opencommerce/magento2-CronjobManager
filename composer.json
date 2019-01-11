@@ -1,5 +1,5 @@
 {
-    "name": "oc/cronjobmanager",
+    "name": "opencommerce/cronjobmanager",
     "description": "A module for managing scheduled cron jobs from magento's admin panel",
     "require": {
         "php": "~7.0.0||~7.1.0||~7.2.0",
